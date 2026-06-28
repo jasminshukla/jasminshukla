@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/jasmin-shukla/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -50,7 +50,7 @@ I enjoy transforming ideas into production-ready software.
 - RAG Platform
 - AI Agent Framework
 - LoRA Training Pipeline
-- AI Headshot Generator
+- AI Image Generator
 - AI Resume Screening Platform
 
 ### 🌐 Web
@@ -90,7 +90,7 @@ I enjoy transforming ideas into production-ready software.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,django"/>
 
 </p>
 
@@ -98,7 +98,7 @@ I enjoy transforming ideas into production-ready software.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,dynamodb"/>
 
 </p>
 
@@ -106,7 +106,7 @@ I enjoy transforming ideas into production-ready software.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,gcp,azure"/>
 
 </p>
 
@@ -114,7 +114,7 @@ I enjoy transforming ideas into production-ready software.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,xd,ai"/>
 
 </p>
 
