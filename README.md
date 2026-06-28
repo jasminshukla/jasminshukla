@@ -190,44 +190,22 @@ I enjoy transforming ideas into production-ready software.
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jasminshukla&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/409ba5/jasminshukla"/>
-
-</p>
-
----
-
+<!-- ---
 # 🌎 Visitor Count
 
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=jasminshukla&style=for-the-badge&color=blue"/>
 
-</p>
+</p> -->
 
 ---
 
 # 📫 Let's Connect
 
 - 🌐 https://www.jasminshukla.com
-- 💼 LinkedIn
+- 💼 [@jasmin-shukla](https://www.linkedin.com/in/jasmin-shukla/)
 - 📧 hire@jasminshukla.com
-- 🐦 X (Twitter)
 
 ---
 
